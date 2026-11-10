@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.idea/
+data/blocklists/*
+data/models/*
+!data/blocklists/.gitkeep
+!data/models/.gitkeep
+.env
+PROGRESS.md
+.pytest_cache
